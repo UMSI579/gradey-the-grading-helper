@@ -26,16 +26,13 @@ const defaultData = {
     {
       'description': 'it hurt my feelings (-20)'
     },
-    {
-      'description': 'written answer describes React concepts correctly, but does not mention the question itself (-10)',
-    }
   ],
     'q2': [
     {
       'description': 'the buttons just disappear (-40)'
     },
     {
-      'description': 'mad my computer blazing hot (-20)'
+      'description': 'made my computer blazing hot (-20)'
     },
     {
       'description': 'you broke all my NFTs (-10)'
@@ -69,7 +66,7 @@ const defaultData = {
       'description': 'code gave me a peanut allergy (-14)',
     },
     {
-      'description': 'on form submit, I had to face unleasant truths about myself (-20)',
+      'description': 'on form submit, I had to face unpleasant truths about myself (-20)',
     },
     {
       'description': 'localStorage is just a bunch of unsorted band-aids (-30)',
