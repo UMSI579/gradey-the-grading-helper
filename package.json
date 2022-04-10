@@ -2,6 +2,7 @@
   "name": "another_grader",
   "version": "0.1.0",
   "private": true,
+  "homepage": "gradey-the-grading-helper",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
